@@ -1,0 +1,1 @@
+E:\devcurry\EFCoreStoredProcs\EFCoreSPAPI\EFCoreSPAPI>dotnet ef dbcontext scaffold "Data Source=.;Initial Catalog=Application;Integrated Security=SSPI" Microsoft.EntityFrameworkCore.SqlServer -o Models
